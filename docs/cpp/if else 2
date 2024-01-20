@@ -1,0 +1,12 @@
+#include<stdio.h>
+void main()
+{
+    float x,a,b
+    logical appartiene;
+    read (x,a,b);
+     if(x=>a && x<=b);
+     {"appartiene=true";}
+     else
+     {"appartiene=false";}
+    printf("x,a,b appartiene");
+}
